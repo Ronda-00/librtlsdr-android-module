@@ -1,0 +1,20 @@
+# Carpetas y archivos generados por el sistema de construcción
+/build
+/.cxx
+/.gradle
+/capture.keystore
+
+# Archivos de configuración del IDE (Android Studio, IntelliJ)
+*.iml
+.idea/
+.idea/libraries/
+.idea/misc.xml
+.idea/modules.xml
+.idea/vcs.xml
+.idea/workspace.xml
+
+# Archivos locales de configuración de Gradle
+local.properties
+
+# Archivos de logs y otros generados
+*.log
