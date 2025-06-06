@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "com.sdr.librtlsdr-merged_res-7:/layout/notification_template_part_chronometer.xml",
+        "source": "com.sdr.librtlsdr-core-1.10.1-2:/layout/notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "com.sdr.librtlsdr-merged_res-7:/layout/custom_dialog.xml",
+        "source": "com.sdr.librtlsdr-core-1.10.1-2:/layout/custom_dialog.xml"
+    },
+    {
+        "merged": "com.sdr.librtlsdr-merged_res-7:/layout/notification_template_part_time.xml",
+        "source": "com.sdr.librtlsdr-core-1.10.1-2:/layout/notification_template_part_time.xml"
+    }
+]

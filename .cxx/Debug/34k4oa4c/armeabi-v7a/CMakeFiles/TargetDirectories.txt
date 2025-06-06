@@ -1,0 +1,3 @@
+/Users/rondaronda/AndroidStudioProjects/SDRDetector/librtlsdr/.cxx/Debug/34k4oa4c/armeabi-v7a/CMakeFiles/rtlsdr.dir
+/Users/rondaronda/AndroidStudioProjects/SDRDetector/librtlsdr/.cxx/Debug/34k4oa4c/armeabi-v7a/CMakeFiles/edit_cache.dir
+/Users/rondaronda/AndroidStudioProjects/SDRDetector/librtlsdr/.cxx/Debug/34k4oa4c/armeabi-v7a/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,11 @@
+com.sdr.librtlsdr-jetified-annotation-experimental-1.3.0-0 /Users/rondaronda/.gradle/caches/transforms-3/5437bf78e28463f9bfd05ebd755deb19/transformed/jetified-annotation-experimental-1.3.0/res
+com.sdr.librtlsdr-lifecycle-runtime-2.3.1-1 /Users/rondaronda/.gradle/caches/transforms-3/54482027004becf1e33de6753981bcbc/transformed/lifecycle-runtime-2.3.1/res
+com.sdr.librtlsdr-core-1.10.1-2 /Users/rondaronda/.gradle/caches/transforms-3/7810e8761aa3025c239028b0b49ad789/transformed/core-1.10.1/res
+com.sdr.librtlsdr-jetified-core-ktx-1.10.1-3 /Users/rondaronda/.gradle/caches/transforms-3/973cbde2c4e754cc1a9fdd76049fe1ef/transformed/jetified-core-ktx-1.10.1/res
+com.sdr.librtlsdr-pngs-4 /Users/rondaronda/AndroidStudioProjects/SDRDetector/librtlsdr/build/generated/res/pngs/release
+com.sdr.librtlsdr-resValues-5 /Users/rondaronda/AndroidStudioProjects/SDRDetector/librtlsdr/build/generated/res/resValues/release
+com.sdr.librtlsdr-mergeReleaseResources-6 /Users/rondaronda/AndroidStudioProjects/SDRDetector/librtlsdr/build/intermediates/incremental/release/mergeReleaseResources/merged.dir
+com.sdr.librtlsdr-mergeReleaseResources-7 /Users/rondaronda/AndroidStudioProjects/SDRDetector/librtlsdr/build/intermediates/incremental/release/mergeReleaseResources/stripped.dir
+com.sdr.librtlsdr-merged_res-8 /Users/rondaronda/AndroidStudioProjects/SDRDetector/librtlsdr/build/intermediates/merged_res/release
+com.sdr.librtlsdr-main-9 /Users/rondaronda/AndroidStudioProjects/SDRDetector/librtlsdr/src/main/res
+com.sdr.librtlsdr-release-10 /Users/rondaronda/AndroidStudioProjects/SDRDetector/librtlsdr/src/release/res

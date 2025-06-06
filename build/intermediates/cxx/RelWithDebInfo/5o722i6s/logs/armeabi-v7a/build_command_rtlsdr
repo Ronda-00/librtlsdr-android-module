@@ -1,0 +1,4 @@
+/Users/rondaronda/Library/Android/sdk/cmake/3.22.1/bin/ninja \
+  -C \
+  /Users/rondaronda/AndroidStudioProjects/SDRDetector/librtlsdr/.cxx/RelWithDebInfo/5o722i6s/armeabi-v7a \
+  rtlsdr

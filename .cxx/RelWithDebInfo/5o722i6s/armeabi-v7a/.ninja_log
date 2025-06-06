@@ -1,0 +1,10 @@
+# ninja log v5
+1	220	1749236257214472186	CMakeFiles/rtlsdr.dir/rtlsdr_jni.c.o	73e72cf13af71d13
+0	222	1749236257214642301	CMakeFiles/rtlsdr.dir/libusbhelper.c.o	a9d40017de49b84d
+3	247	1749236257241374301	CMakeFiles/rtlsdr.dir/tuner_fc0012.c.o	19a4e2198b1d5225
+3	267	1749236257261547320	CMakeFiles/rtlsdr.dir/tuner_fc0013.c.o	e41a7ae6f3b7de7c
+4	275	1749236257269628437	CMakeFiles/rtlsdr.dir/tuner_fc2580.c.o	3041ec522c1624ba
+2	299	1749236257294862925	CMakeFiles/rtlsdr.dir/tuner_e4k.c.o	cd41e34028c314b9
+0	406	1749236257401486663	CMakeFiles/rtlsdr.dir/librtlsdr.c.o	7b97f176fd908c13
+6	519	1749236257513912651	CMakeFiles/rtlsdr.dir/tuner_r820t.c.o	ea10fd41080a4a47
+519	612	1749236257604137454	/Users/rondaronda/AndroidStudioProjects/SDRDetector/librtlsdr/build/intermediates/cxx/RelWithDebInfo/5o722i6s/obj/armeabi-v7a/librtlsdr.so	faf0681a34f40736

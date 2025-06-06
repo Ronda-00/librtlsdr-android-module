@@ -1,0 +1,25 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/rondaronda/AndroidStudioProjects/SDRDetector/librtlsdr/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest10959213675430746684.xml:2:13-83
+INJECTED from /Users/rondaronda/AndroidStudioProjects/SDRDetector/librtlsdr/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest10959213675430746684.xml:2:13-83
+INJECTED from /Users/rondaronda/AndroidStudioProjects/SDRDetector/librtlsdr/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest10959213675430746684.xml:2:13-83
+	package
+		INJECTED from /Users/rondaronda/AndroidStudioProjects/SDRDetector/librtlsdr/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest10959213675430746684.xml
+		ADDED from /Users/rondaronda/AndroidStudioProjects/SDRDetector/librtlsdr/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest10959213675430746684.xml:2:13-83
+		INJECTED from /Users/rondaronda/AndroidStudioProjects/SDRDetector/librtlsdr/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest10959213675430746684.xml
+	xmlns:android
+		ADDED from /Users/rondaronda/AndroidStudioProjects/SDRDetector/librtlsdr/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest10959213675430746684.xml:2:23-81
+uses-sdk
+INJECTED from /Users/rondaronda/AndroidStudioProjects/SDRDetector/librtlsdr/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest10959213675430746684.xml reason: use-sdk injection requested
+INJECTED from /Users/rondaronda/AndroidStudioProjects/SDRDetector/librtlsdr/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest10959213675430746684.xml
+INJECTED from /Users/rondaronda/AndroidStudioProjects/SDRDetector/librtlsdr/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest10959213675430746684.xml
+INJECTED from /Users/rondaronda/AndroidStudioProjects/SDRDetector/librtlsdr/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest10959213675430746684.xml
+INJECTED from /Users/rondaronda/AndroidStudioProjects/SDRDetector/librtlsdr/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest10959213675430746684.xml
+	android:targetSdkVersion
+		INJECTED from /Users/rondaronda/AndroidStudioProjects/SDRDetector/librtlsdr/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest10959213675430746684.xml
+		ADDED from /Users/rondaronda/AndroidStudioProjects/SDRDetector/librtlsdr/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest10959213675430746684.xml
+		INJECTED from /Users/rondaronda/AndroidStudioProjects/SDRDetector/librtlsdr/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest10959213675430746684.xml
+	android:minSdkVersion
+		INJECTED from /Users/rondaronda/AndroidStudioProjects/SDRDetector/librtlsdr/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest10959213675430746684.xml
+		ADDED from /Users/rondaronda/AndroidStudioProjects/SDRDetector/librtlsdr/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest10959213675430746684.xml
+		INJECTED from /Users/rondaronda/AndroidStudioProjects/SDRDetector/librtlsdr/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest10959213675430746684.xml
